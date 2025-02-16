@@ -1,0 +1,5 @@
+You can download stockfish as zip file from:
+https://stockfishchess.org/download/.
+
+Extract the files to this folder and the code will do the rest.
+ 

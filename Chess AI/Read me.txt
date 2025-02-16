@@ -1,0 +1,1 @@
+This is a chess bot that evaluates any board positions and allows the user to play against it>
