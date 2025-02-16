@@ -1,0 +1,5 @@
+you can download the dataset as zip file from:
+https://github.com/ardamavi/Sign-Language-Digits-Dataset/tree/master/Dataset
+
+Extract the files to this folder and the code will do the rest.
+ 
