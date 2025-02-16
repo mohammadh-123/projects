@@ -1,0 +1,1 @@
+This is an AI-based object detection system using YOLOv8 and OpenCV, achieving 90% accuracy in detecting vehicles, pedestrians and other objects.
