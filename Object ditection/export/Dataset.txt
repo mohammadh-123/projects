@@ -1,5 +1,0 @@
-you can download the dataset as zip file from:
-https://public.roboflow.com/object-detection/self-driving-car/3.
-
-Extract the files to this folder and the code will do the rest.
- 
